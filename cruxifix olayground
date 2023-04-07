@@ -1,0 +1,112 @@
+do
+	local v0;
+	local v1;
+	local v2;
+	local v3;
+	local v4;
+	local v5;
+	local v6;
+	local v7;
+	local v8;
+	local v9;
+	local v10;
+	local v11;
+	local v12;
+	local v13;
+	local v14;
+	local v15;
+	local v16;
+	local v17;
+	local v18;
+	local v19;
+	local v20;
+	local v21;
+	local v22;
+	local v23;
+	local v24 = 0;
+	while true do
+		if (v24 == 4) then
+			v11 = _G[v7("\239\185\161\168\84\204", "\156\205\211\193\58\171")][v7("\184\218\237", "\203\175\143\228")];
+			v12 = _G[v7("\88\16\27\130\2\65", "\43\100\105\235\108\38")][v7("\121\53\107\181", "\30\70\30\215\116\145\205")];
+			v13 = _G[v7("\189\251\82\204\198\169", "\206\143\32\165\168")][v7("\77\233\70", "\63\140\54\52")];
+			v24 = 5;
+		end
+		if (v24 == 1) then
+			v3 = bit32 or bit;
+			v4 = v3.bxor;
+			v5 = table.concat;
+			v24 = 2;
+		end
+		if (v24 == 0) then
+			v0 = string.char;
+			v1 = string.byte;
+			v2 = string.sub;
+			v24 = 1;
+		end
+		if (v24 == 6) then
+			v17 = _G[v7("\73\92\58\60\223\64\79", "\46\57\78\90\186")] or function()
+				return _ENV;
+			end;
+			v18 = _G[v7("\11\21\147\242\169\177\1\230\25\18\139\250", "\120\112\231\159\204\197\96\146")];
+			v19 = _G[v7("\55\7\238\90\7", "\71\100\143\54\107\105")];
+			v24 = 7;
+		end
+		if (v24 == 8) then
+			v23 = nil;
+			v23 = function(v30, v31, ...)
+				local v35 = 0;
+				local v36;
+				local v37;
+				local v38;
+				local v39;
+				local v40;
+				local v41;
+				local v42;
+				local v43;
+				local v44;
+				local v45;
+				local v46;
+				local v47;
+				local v48;
+				while true do
+					if (v35 == 1) then
+						v40 = nil;
+						v41 = nil;
+						v42 = nil;
+						v43 = nil;
+						v35 = 2;
+					end
+					if (v35 == 0) then
+						v36 = 0;
+						v37 = nil;
+						v38 = nil;
+						v39 = nil;
+						v35 = 1;
+					end
+					if (3 == v35) then
+						v48 = nil;
+						while true do
+							local v51 = 0;
+							while true do
+								if (v51 == 0) then
+									if (v36 == 6) then
+										local v53 = 0;
+										while true do
+											if (1 == v53) then
+												v48 = nil;
+												v36 = 7;
+												break;
+											end
+											if (0 == v53) then
+												v47 = nil;
+												v47 = function()
+													local v69 = 0;
+													local v70;
+													local v71;
+													local v72;
+													local v73;
+													local v74;
+													local v75;
+													local v76;
+													while true do
+				
